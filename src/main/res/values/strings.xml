@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">IntroSliderDemo</string>
+    <string name="app_name">Can I Buy?</string>
     <string name="title_activity_welcome">Home Screen</string>
     <string name="next">NEXT</string>
     <string name="skip">SKIP</string>
@@ -14,4 +14,6 @@
     <string name="slide_3_title">Step 2</string>
     <string name="slide_3_desc">The app will point out the fruits or vegetables that are good enough to buy!</string>
 
+
+    <string name="homepage_desc">Click the camera to start!</string>
 </resources>
