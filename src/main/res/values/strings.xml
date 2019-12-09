@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IntroSliderDemo</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Can I Buy?</string>
+    <string name="slide_1_desc">Two steps to save time at the grocery store!</string>
+
+    <string name="slide_2_title">Step 1 </string>
+    <string name="slide_2_desc">Open your camera in the app and point it at groceries that you have trouble with.</string>
+
+    <string name="slide_3_title">Step 2</string>
+    <string name="slide_3_desc">The app will point out the fruits or vegetables that are good enough to buy!</string>
+
+</resources>
